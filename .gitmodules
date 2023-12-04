@@ -1,0 +1,3 @@
+[submodule "cloud-notes-app"]
+	path = cloud-notes-app
+	url = https://github.com/Tychette/cloud-notes-app.git
